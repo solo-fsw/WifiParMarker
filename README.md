@@ -4,7 +4,7 @@ When powered ON, the TTGO T-Display board automatically connects to the **iotroa
 
 
 > [!IMPORTANT]
-> Make sure to enter the correct password for iotroam network in the Main Sketch before uploading it to the board.
+> Make sure the board and server use the same password to connect to **iotroam** network.
 
 
 The IP address must then be entered in the desktop or VR headset acting as the TCP client. 
