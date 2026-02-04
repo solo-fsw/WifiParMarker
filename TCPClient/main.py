@@ -10,7 +10,7 @@ receive_queue = queue.Queue()
 
 
 def get_server_ip():
-    ip = "145.118.220.204" #ip address of TCP Server
+    ip = "198.162.X.Y" #ip address of TCP Server
     while not ip:
         ip = input("Enter ESP32 IP address: ").strip()
     return ip
