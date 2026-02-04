@@ -26,7 +26,7 @@ After a TCP client establishes a connection, the board can send and receive data
 
 - [ ] Verify if there is any data loss during continuous data transfer.
 - [ ] Confirm stable TCP connection under prolonged operation.
-- [ ] What happens when multiple clients try to talk to the Server board?
+- [ ] Observe and fix issues with multiple clients attempting to communicate with the Server simultaneously
 - [ ] Measure latency between client and server.
 
 
